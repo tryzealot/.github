@@ -41,7 +41,10 @@
   </div>
 </div>
 
-![Zealot Showcase](https://zealot.ews.im/img/showcase.png)
+![Zealot Showcase Light](https://zealot.ews.im/img/showcase-light.png#gh-light-mode-only)
+
+![Zealot Showcase Dark](https://zealot.ews.im/img/showcase-dark.png#gh-dark-mode-only)
+
 ## 特性
 
 - 🌏 **多平台应用支持**: macOS、iOS、甚至是 APK 和 AAB 格式的 Android 应用上传、安装（支持 ARM 的 macOS）和下载
