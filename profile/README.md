@@ -41,8 +41,8 @@
   </div>
 </div>
 
-![Zealot Showcase](https://zealot.ews.im/img/showcase-light.png#gh-light-mode-only)
-![Zealot Showcase](https://zealot.ews.im/img/showcase-dark.png#gh-dark-mode-only)
+![Zealot Showcase](https://github.com/tryzealot/docs/blob/main/static/img/showcase-light.png#gh-light-mode-only)
+![Zealot Showcase](https://github.com/tryzealot/docs/blob/main/static/img/showcase-dark.png#gh-dark-mode-only)
 
 ## 特性
 
