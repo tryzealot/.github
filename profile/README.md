@@ -76,9 +76,9 @@
     </td>
     <td align="center">
       <a href="https://github.com/sponsors/icyleaf">
-        <img src="https://camo.githubusercontent.com/369f5e3f574fd9693f5b1b6e193eb5211827ccacd0eec91ede06f7574e20f0c7/68747470733a2f2f6769746875622e6769746875626173736574732e636f6d2f696d616765732f6d6f64756c65732f736974652f73706f6e736f72732f6c6f676f2d6d6f6e612e737667" width="46" />
+        <img src="https://camo.githubusercontent.com/369f5e3f574fd9693f5b1b6e193eb5211827ccacd0eec91ede06f7574e20f0c7/68747470733a2f2f6769746875622e6769746875626173736574732e636f6d2f696d616765732f6d6f64756c65732f736974652f73706f6e736f72732f6c6f676f2d6d6f6e612e737667" width="46" height="46" alt="Github Sponsor" title="Become a Github Sponsor" />
       </a><br />
-      <sub>Become a sponsor</sub>
+      <sub>Become A Sponsor</sub>
     </td>
     <td align="center">
       <a href="https://buymeacoffee.com/icyleaf">
